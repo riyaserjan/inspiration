@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('mountaintopsunset.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+    text-align: center;
+}
+h1 {
+    color: #000;
+    font-size: 42px;
+    margin-top: 50px; /* Add margin-top to push content below the background image */
+    margin-bottom: 20px;
+}
+.welcome {
+    font-size: 24px;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+.quote {
+    margin-top: 20px;
+    font-style: italic;
+    color: #000;
+    font-size: 24px;
+    line-height: 1.6;
+    width: 25%;
+    margin: 0 auto; /* Center horizontally */
+    border: 8px solid orange; /* Add border with orange color */
+    padding: 10px; /* Add padding for better visual */
+}
+.motivational-words {
+    margin-top: 40px;
+}
+.motivational-word {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #621909;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.motivational-word:hover {
+    background-color: #0056b3;
+}
+.pclass{
+    font-weight: 900;
+    color: #000;
+}
+.p1class{
+    font-weight: 900;
+    color: #000;
+}
